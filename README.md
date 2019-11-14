@@ -9,7 +9,7 @@
 + "-I" = "--no-index"
 + "-l" = "--language"
 + "-o" = "--output"
-+ "-o" = "--verbose"
++ "-v" = "--verbose"
 + "-h" = "--help"
 
 ### Some keys may take different value as an additional key parameters:
